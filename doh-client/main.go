@@ -33,7 +33,7 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/m13253/dns-over-https/doh-client/config"
+	"github.com/jonyhy96/dns-over-https/v2/config"
 )
 
 func checkPIDFile(pidFile string) (bool, error) {

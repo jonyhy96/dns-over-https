@@ -35,7 +35,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/m13253/dns-over-https/doh-client/selector"
+	"github.com/jonyhy96/dns-over-https/v2/selector"
 	jsonDNS "github.com/m13253/dns-over-https/json-dns"
 	"github.com/miekg/dns"
 )
